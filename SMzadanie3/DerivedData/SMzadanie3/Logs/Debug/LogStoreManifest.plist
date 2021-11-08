@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>05F8CAF3-E70C-4B1C-8826-AC6FDBCE983F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>05F8CAF3-E70C-4B1C-8826-AC6FDBCE983F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SMzadanie3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SMzadanie3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SMzadanie3</string>
+			<key>timeStartedRecording</key>
+			<real>658067116.48191702</real>
+			<key>timeStoppedRecording</key>
+			<real>658067193.61363006</real>
+			<key>title</key>
+			<string>Debug SMzadanie3</string>
+			<key>uniqueIdentifier</key>
+			<string>05F8CAF3-E70C-4B1C-8826-AC6FDBCE983F</string>
+		</dict>
+		<key>0C30FFA7-2BD9-4916-9C2F-8937DF9C3071</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0C30FFA7-2BD9-4916-9C2F-8937DF9C3071.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SMzadanie3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SMzadanie3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SMzadanie3</string>
+			<key>timeStartedRecording</key>
+			<real>658066028.55087996</real>
+			<key>timeStoppedRecording</key>
+			<real>658066575.11204505</real>
+			<key>title</key>
+			<string>Debug SMzadanie3</string>
+			<key>uniqueIdentifier</key>
+			<string>0C30FFA7-2BD9-4916-9C2F-8937DF9C3071</string>
+		</dict>
+		<key>111F4938-CFEE-4314-B5E0-F61629B7C0F4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>111F4938-CFEE-4314-B5E0-F61629B7C0F4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SMzadanie3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SMzadanie3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SMzadanie3</string>
+			<key>timeStartedRecording</key>
+			<real>658067397.42204905</real>
+			<key>timeStoppedRecording</key>
+			<real>658067496.579548</real>
+			<key>title</key>
+			<string>Debug SMzadanie3</string>
+			<key>uniqueIdentifier</key>
+			<string>111F4938-CFEE-4314-B5E0-F61629B7C0F4</string>
+		</dict>
+		<key>11DE8DB0-E910-4E7E-9451-061651D534DE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>11DE8DB0-E910-4E7E-9451-061651D534DE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SMzadanie3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SMzadanie3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SMzadanie3</string>
+			<key>timeStartedRecording</key>
+			<real>658067292.27745295</real>
+			<key>timeStoppedRecording</key>
+			<real>658067335.03567898</real>
+			<key>title</key>
+			<string>Debug SMzadanie3</string>
+			<key>uniqueIdentifier</key>
+			<string>11DE8DB0-E910-4E7E-9451-061651D534DE</string>
+		</dict>
+		<key>2F0F7A9E-BC1F-4917-B9A0-DF7DA7D57387</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2F0F7A9E-BC1F-4917-B9A0-DF7DA7D57387.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SMzadanie3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SMzadanie3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SMzadanie3</string>
+			<key>timeStartedRecording</key>
+			<real>658065392.610376</real>
+			<key>timeStoppedRecording</key>
+			<real>658066017.116431</real>
+			<key>title</key>
+			<string>Debug SMzadanie3</string>
+			<key>uniqueIdentifier</key>
+			<string>2F0F7A9E-BC1F-4917-B9A0-DF7DA7D57387</string>
+		</dict>
+		<key>56E8AA64-37CE-4F18-95B3-63220364A1E5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>56E8AA64-37CE-4F18-95B3-63220364A1E5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SMzadanie3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SMzadanie3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SMzadanie3</string>
+			<key>timeStartedRecording</key>
+			<real>658067503.59197605</real>
+			<key>timeStoppedRecording</key>
+			<real>658067558.87215197</real>
+			<key>title</key>
+			<string>Debug SMzadanie3</string>
+			<key>uniqueIdentifier</key>
+			<string>56E8AA64-37CE-4F18-95B3-63220364A1E5</string>
+		</dict>
+		<key>581E3DC2-709C-4F06-8F9F-3CF03ABAA81B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>581E3DC2-709C-4F06-8F9F-3CF03ABAA81B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SMzadanie3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SMzadanie3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SMzadanie3</string>
+			<key>timeStartedRecording</key>
+			<real>658067195.94547796</real>
+			<key>timeStoppedRecording</key>
+			<real>658067261.69110894</real>
+			<key>title</key>
+			<string>Debug SMzadanie3</string>
+			<key>uniqueIdentifier</key>
+			<string>581E3DC2-709C-4F06-8F9F-3CF03ABAA81B</string>
+		</dict>
+		<key>84F616A3-CE46-4DA5-8D5C-E35820B46BCE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>84F616A3-CE46-4DA5-8D5C-E35820B46BCE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SMzadanie3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SMzadanie3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SMzadanie3</string>
+			<key>timeStartedRecording</key>
+			<real>658066591.56204402</real>
+			<key>timeStoppedRecording</key>
+			<real>658066830.78639996</real>
+			<key>title</key>
+			<string>Debug SMzadanie3</string>
+			<key>uniqueIdentifier</key>
+			<string>84F616A3-CE46-4DA5-8D5C-E35820B46BCE</string>
+		</dict>
+		<key>9115BEA4-3BF4-4F3C-9066-37A2231E509C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9115BEA4-3BF4-4F3C-9066-37A2231E509C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SMzadanie3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SMzadanie3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SMzadanie3</string>
+			<key>timeStartedRecording</key>
+			<real>658067263.12248802</real>
+			<key>timeStoppedRecording</key>
+			<real>658067291.56115603</real>
+			<key>title</key>
+			<string>Debug SMzadanie3</string>
+			<key>uniqueIdentifier</key>
+			<string>9115BEA4-3BF4-4F3C-9066-37A2231E509C</string>
+		</dict>
+		<key>996EC5AC-8F66-48EA-BDD4-9AA48F4F7306</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>996EC5AC-8F66-48EA-BDD4-9AA48F4F7306.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SMzadanie3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SMzadanie3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SMzadanie3</string>
+			<key>timeStartedRecording</key>
+			<real>658066582.42560995</real>
+			<key>timeStoppedRecording</key>
+			<real>658066591.01225197</real>
+			<key>title</key>
+			<string>Debug SMzadanie3</string>
+			<key>uniqueIdentifier</key>
+			<string>996EC5AC-8F66-48EA-BDD4-9AA48F4F7306</string>
+		</dict>
+		<key>9C3B78BA-7B91-4C0C-9A9E-C4EA7E4BA5B9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9C3B78BA-7B91-4C0C-9A9E-C4EA7E4BA5B9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SMzadanie3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SMzadanie3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SMzadanie3</string>
+			<key>timeStartedRecording</key>
+			<real>658066971.83551705</real>
+			<key>timeStoppedRecording</key>
+			<real>658067116.30363297</real>
+			<key>title</key>
+			<string>Debug SMzadanie3</string>
+			<key>uniqueIdentifier</key>
+			<string>9C3B78BA-7B91-4C0C-9A9E-C4EA7E4BA5B9</string>
+		</dict>
+		<key>F0662962-4A19-4F78-AC7A-BB8E28D6384B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F0662962-4A19-4F78-AC7A-BB8E28D6384B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SMzadanie3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SMzadanie3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SMzadanie3</string>
+			<key>timeStartedRecording</key>
+			<real>658067335.11247504</real>
+			<key>timeStoppedRecording</key>
+			<real>658067397.50459003</real>
+			<key>title</key>
+			<string>Debug SMzadanie3</string>
+			<key>uniqueIdentifier</key>
+			<string>F0662962-4A19-4F78-AC7A-BB8E28D6384B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
